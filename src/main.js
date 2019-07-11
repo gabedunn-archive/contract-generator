@@ -13,7 +13,7 @@ import { me, client, phases, projectType, capitalize } from './constants'
 
 // Generate some constants.
 const exportDirectory = join(__dirname, '..')
-const exportFile = join(exportDirectory, 'Contact.md')
+const exportFile = join(exportDirectory, 'Contract.md')
 
 // The title variables.
 const title = `${capitalize(projectType)} Development Contract.`

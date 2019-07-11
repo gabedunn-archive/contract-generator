@@ -4,8 +4,12 @@
   "main": "index.js",
   "author": "Gabe Dunn <gabe.dunn@shaw.ca>",
   "license": "MIT",
+  "scripts": {
+    "start": "babel-node ./src/main.js",
+    "start:dev": "nodemon --exec babel-node ./src/main.js",
+    "lint": "eslint --ext .js ./src"
+  },
   "dependencies": {
-    "inquirer": "^6.5.0",
     "json2md": "^1.6.3"
   },
   "devDependencies": {
