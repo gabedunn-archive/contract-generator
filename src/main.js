@@ -243,7 +243,7 @@ const smallPrintParagraphs = [
   'This contract stays in place and need not be renewed. If for some reason one part of this contract becomes ' +
   'invalid or unenforceable, the remaining parts of it remain in place.',
   'Although the language is simple, the intentions are serious and this contract is a legal document under exclusive ' +
-  'jurisdiction of the Canadian Courts system.',
+  'jurisdiction of the Canadian Courts system, specifically the courts of Alberta.',
   'Oh and don\'t forget those men with big dogs.'
 ]
 
