@@ -255,7 +255,7 @@ const date = `Date: \t\t\t\t\t\t\t\t\t\t_____________________`
 const contractMarkdown = json2md([
   { h1: title },
   { blockquote: subtitle },
-  { h2: 'Project Summary' },
+  { h2: 'Summary' },
   { p: summaryParagraphs },
   { ul: project.tasks },
   { p: summaryParagraphs2 },
