@@ -1,60 +1,96 @@
 # Web Development Contract.
 
-> A contract between me: Gabriel Dunn ("I", "me", "developer", "Gabe Dunn", or "Gabe Dunn Development" in this document) and you: Placeholder Inc. ("you", "client", "Placeholder", "Placeholder Inc.", or "John Smith" in this document).
-
-## Introduction
-
-
-I will always do my best to fulfil your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if things go wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I want what's best for the safety of both parties, now and in the future.
+> **Between** Gabriel Dunn
+> 
+> **And** Placeholder Inc.
 
 ## Project Summary
 
 
-You, the client (Placeholder Inc.), are hiring me, Gabriel Dunn, to develop a web application for the estimated total price of outlined in our previous correspondence. The agreed payment plan is at the end of the document.
+I will always do my best to fulfil your needs and meet your expectations, but it's important to have things written down so that we both know what is what, who should do what and what happens if something goes wrong. In this contract you won't find any complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. What I do want is what's best for both parties, now and in the future.
 
-## Agreements of Both Parties
+So, in short;
+
+You (Placeholder Inc.), located at 123 Fake Address Lane ("you", "client"), represented by John Smith, are hiring me (Gabriel Dunn) ("I", "me", "developer", or "Gabe Dunn Development") to:
+
+
+ - Design and develop a web application.
+
+
+For the estimated total price of $4000 CAD as outlined in our previous correspondence.
+
+Of course it's a little more complicated, but we'll get to that.
+
+## What Do Both Parties Agree To?
 
 
 As my client, you agree:
 
 
- - That you have the power to enter into this contract on behalf of yourself, your company, or your organization.
- - To provide me with everything that I need to complete the project including (but not limited to) text, copy, account credentials, images, and other information as and when I need it, in the format that I ask for.
- - To review my work, provide feedback, and sign-off within agreed upon timescales.
- - To be bound by any dates that we set together for deadlines.
- - To stick to the payment schedule described at the end of this contract.
+ - That you have the authority to enter into this contract on behalf of yourself, your company, or your organization.
+ - To provide me with the assets and information I tell you I will need to complete the project.
+ - To do this when I ask and provide it in the formats I ask for.
+ - To review my work, provide feedback, and approval in a timely manner too.
+ - To be bound by any dates that we set together.
+ - To stick to the payment schedule set out at the end of this contract.
 
 
 As the developer, I agree:
 
 
  - That I have the experience and ability to perform the services that we have agreed upon.
- - To carry out this service in a professional and timely manner.
+ - To carry out this all in a professional and timely manner.
+ - To endeavor to meet every deadline that's set.
  - To respect the confidentiality of any information that you give me.
- - To endeavor to meet all of the deadlines set, but I can't be held responsible for a missed launch date or deadline if you have been late in supplying materials or have not approved or signed off on my work on time at anystage.
 
-## Details of the Work
+## Getting Down to the Nitty Gritty
 
 
-I can and will provide suggestions for designs, templates, look and feel, layout, and functionality of the web application. I will provide some design support as necessary to complete the design of the app, fully develop the application, and implement a custom backend as needed, and potentially extend the backend to allow for future maintenance of the site on your own.
+**Design**
 
-*Testing and Cross-Browser Compatibility*
+I create designs that adapt to the capabilities of many devices and screen sizes. I create them iteratively and use predominantly HTML, CSS, and JS so I won't waste time mocking up every template as a static visual. I may use visuals to indicate a creative direction (colour, texture, and typography).
 
-I will not be testing the application in old or abandoned environments, including but not limited to some examples such as Microsoft Internet Explorer, previous versions of browsers such as Apple's Safari, Mozilla's Firefox, Google's Chrome (or Chromium), or Opera unless otherwise specified. If you need to show the same orsimilar visual design to users using these older browsers, we will have to re-negotiate an increased rate, as developing for these older browser is costly and time-consuming.
+You'll have plenty of opportunities to review my work and provide feedback. I'll either share a Dropbox folder, Google Drive folder, or GitHub repository or development site with you and we'll have regular contact by either email or Discord.
 
-*Content Input*
+If - at any stage - you change your mind about what you want delivered or aren't happy with the direction my work is going, you'll pay me in accordance with the termination section, and may terminate this contract.
 
-I am not responsible for writing or inputting any content. That includes but is not limited to: products, pagecontent, categories, attributes, and product tags. I'll be happy to help, though, and in addition to the initialestimate I will charge you at an hourly rate for this content input. Even so, I expect most of the copy to be provided by you, as you know the nature of your business and message better than I do.
+**Text Content**
 
-*Workflow and Design*
+Unless agreed upon separately, I'm not responsible for inputting text or images into your content management system or or creating every page in your web application. I can provide outsourced professional copy writing and editing services, so if you'd like that, I can provide a separate estimate.
 
-If you have already engaged the services of a graphic designer who has produced mockups of the design of yourwebsite, I will work from these and endeavor to produce a website resembling them as closely as possible. Note that it might not be possible to produce pixel-perfect interpretations of them across all browsers and under all circumstances due to technical limitations beyond my control. I will need your mockups in both PSD PNG, and whichever other source files you were provided with all of the original layers intact so I can access the requiredassets from them directly.
+**Graphics and Photographs**
 
-*Changes and Revisions*
+You should supply graphic files in in an editable, vector digital format. You should supply photographs in a high resolution (preferably original size) digital format. If you choose to buy stock photographs, I can suggest stock libraries. If you'd like me to search for photographs for you, I can provide a separate estimate.
 
-Changes and revisions can be submitted by the client upon review of each milestone or phase (referred to solely as "phase"), and finally upon review of the last phase which will include a project-wide review. If further work is needed after the completion of the final phase, work can be acquired at an additional cost of $70CAD/hour, subject to change based upon availability.
+**HTML, CSS, and JS**
 
-As each phase is being worked on, changes and revisions should be communicated quickly and directly so that fixeshappening on an ongoing basis. When development has been completed for a phase, feedback from the client cannot take more than 3 business days or the phase is considered to be satisfactorily complete.
+I deliver pages in HTML for markup, CSS stylesheets for styling, and unobtrusive JS for behaviors and the framework.
+
+**Browser Testing**
+
+Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person's experience of a design should be appropriate to the capabilities of a browser or device.
+
+I test my work in current versions of major desktop browsers including those made by Google (Chrome/Chromium), Mozilla (Firefox), and Vivaldi. I won't test in older or "problem browsers" such as Microsoft's Internet Explorer and Edge. If you need an enhanced design for an older or "problem browser", I can provide a separate estimate for that.
+
+**Mobile Browser Testing**
+
+Testing using popular smaller screen devices is essential in ensuring that a person's experience of a design is appropriate to the capabilities of the device they're using. I test my designs in Google Chrome on the latest version of android, and can additionally test with Safari and Google Chrome on the latest version of iOS.
+
+I won't test in Opera Mini/Mobile, specific android devices, or other mobile browsers unless we agreed separately. If you need me to test using these, I can provide a separate estimate.
+
+**Technical Support**
+
+I'm not a web hosting company so I don't offer support for web hosting, email, or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, I can recommend one of my preferred hosting providers. I can even set if your site on a server, plus any statistics software such as Google Analytics and will provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. I can provide the said updates and management, and for that will provide a separate estimate.
+
+**Search Engine Optimization (SEO)**
+
+I don't guarantee improvements to your website's search engine ranking, but the pages that I develop are accessible to and indexable by search engines.
+
+**Changes and Revisions**
+
+After each phase of development, I will send the current project to you for reviewal. You agree to get back to me within 3 days. If not, the phase with be satisfactorily completed.
+
+I don't want to limit your ability to change your mind. The price at the beginning (and end) of this contract is based on the amount of time that I estimate I'll need to accomplish everything you've told us you want to achieve, but I'm happy to be flexible. If you want to change your mind or add anything new, that won't be a problem as I'll just provide a separate estimate for the additional time. To make changes, you must bring them up during the review of each phase of the project, or at the final review.
 
 ## Cancelling this Contract
 
@@ -79,34 +115,39 @@ If I wish to cancel this Agreement:
 ## Legal Stuff
 
 
-I will take the utmost care and attention to ensure that my provided product is error-free and adequately future-proofed, but due to the rapidly-evolving nature of the web ecosystem and standards it is not possible to guarantee that the code will function as intended indefinitely and as such I can't be liable to you or any third party for damages, including but not limited to lost profits, lost savings or any other incidental, consequential , or special damages arising out of the operation of, inability to operate, or loss of function of this web application and any other web application, even if I have been made aware of the possibilities of such damages.
+I will carry out my work in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience. That said, I can't guarantee that my work will be error-free, and so I can't be liable to your or any third party for any damages including lost profits, lost savings, or other incidental, consequential, or special damages, even if I've been advised of them.
 
-*Severability.* Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall nevertheless remain in full force and effect and the invalid or unenforceable provision shall be replaced by a valid or enforceable provision.
+Your liability to me will also be limited to the amount of fees payable under this contract and you won't be liable to me or any third party for any damages, including lost profits, lost savings, or other incidental, consequential, of special damages, even if we've advised you of them.
 
-*Third Party Materials.* All third party materials are the exclusive property of their respective owners. I shall inform you of all third party materials that may be/are required to perform the services or otherwise integrated into the final project. Under such circumstances, I shall inform you of any need to license.
+You expressly acknowledge that although you are free to engage others to perform services of the same or similar nature to those provided by me. I must be notified of such engagements, and in the occurrence of an engagement of this nature I retain the right to terminate my involvement in the project and consider it equivalent to - under the terms of this contract - you cancelling the agreement, and as such I will retain the right to receive the same "kill fee" referred to in the previous cancellation section. Additionally, I shall be entitled to offer and provide my services to others, solicit other clients, and otherwise advertise the services offered by me.
 
-*Exclusivity.* Placeholder Inc. expressly acknowledge that although they are free to engage others to perform services of the same or similar nature to those provided by Gabriel Dunn, I must be notified of such engagements, and in the occurrence of an engagement of this nature I retain the right to terminate my involvement in the project and consider it equivalent to - under the terms of this contract - you cancelling the agreement, and as such I will retain the right to receive the same "kill fee" referred to in the previous cancellation section. Additionally, Gabriel Dunn shall be entitled to offer and provide my services to others, solicit other clients, and otherwise advertise the services offered by Gabriel Dunn.
+Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract amd shall not affect the validity and enforceability of any remaining provisions.
 
-*Governing Law.* The formation, construction, performance and enforcement of this Agreement shall be in accordance with the laws of Canada without regard to its conflict of law provisions or the conflict of law provisions of any other jurisdiction.
+Phew.
 
-Just like a parking ticket, you cannot transfer this contract to anyone else without my permission. This contract stays in place and need not be renewed.
-
-## Copyrights and Intellectual Properties
+## Intellectual Property Rights
 
 
-You guarantee to me that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me for inclusion in the web application are either owned by your good self, or that you have permission to use them.
+Just to be clear, "Intellectual property rights" means all patents, rights to inventions, copyright, (including rights in software), and related rights, trademarks, service marks, get up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information, (including know-how), and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of such, and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
 
-By default, all copyrights and intellectual properties are solely owned by Gabriel Dunn, and will only be transferred to Placeholder Inc. upon the final payment for the project.
+Blimey.
 
-In the event of the cancellation of this Agreement, the payment for the last complete phase will be considered the final payment, and Placeholder Inc. will receive the copyrights and intellectual property for all of the completed phases.
+First, you guarantee that all elements of text, images, other artwork that you provide are either owned by your good selves, or that you've permission to use them. When you provide text, images, or other artwork to us, you agree to protect me from any claim by a third party that I'm using their intellectual property.
 
-When I receive the final payment, all copyright and intellectual property is automatically assigned as follows:
+I guarantee that all elements of the work I deliver to you are either owned by me or I've obtained permission to provide them to you.
+
+By default, all intellectual properties are solely owned by me, and will only be assigned to you upon the final payment for the project. They will be assigned as follows:
+
+You'll own the website I design for you plus the visual elements that I create for it. I'll give you the source files and finished files and you should keep them somewhere safe as I'm not required to keep a copy. You own all intellectual property rights of text, images, site specification, and data your provided, unless someone else them.
+
+I'll own any intellectual property rights I've developed prior to, or developed separately from this project and not paid for by you. I'll own the unique combination of these elements that constitutes a complete design and I'll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+
+In the event of the termination of this Agreement, the payment for the last complete phase will be considered the final payment, and you will receive the agreed upon intellectual property rights for all of the completed phases.
+
+## Displaying my Work
 
 
- - You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all related files and you should store them carefully as I will not be required to keep them nor provide any native source files that I used in making them. If I decide to provide any of these native source files, I will be under no future requirement to provide or replace these files at any time.
- - You also own all text content, photographs, and other data that you provided, unless they are owned by someone else.
- - I reserve the right to retain a copy of all files used in or relating to the creation of the project. This does not mean that I own the copyright to them.
- - I reserve the right to display and link to your completed project as part of my portfolio and write about the project on websites, in magazine articles, in books, or any other platform, unless otherwise agreed upon. In the case of this happening, I will notify you, and any additional publicity or traffic that your web application gains is of course free of charge.
+I love to show off my work, so I reserve the right to display all aspects of my creative work, including sketches, work-in-progress designs, and the completed project on my portfolio and in articles on websites, in magazine articles, and in books.
 
 ## Project Phases
 
@@ -159,31 +200,50 @@ When I receive the final payment, all copyright and intellectual property is aut
  - Testing of entire project.
  - Amendments.
  - Final review and feedback.
- - Sign-off.
+ - Approval.
 
 ## Payments
 
 
-I am sure you understand how important it is for a small business such as myself that you pay the invoices that I send you promptly. As I'm also sure you want to remain on good terms, you agree to stick tight to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.
+I am sure you understand how important it is for a small business such as myself that you pay the invoices that I send you promptly. As I'm also sure you'll want to stay friends, you agree to stick tight to the following payment schedule.
 
-The total cost of the project is `$4000 CAD`.
+The total estimated cost of the project is `$4000 CAD`.
 
 I will invoice for an initial down payment of $1000 CAD once this agreement has been signed. I will start work after receiving this payment.
 
-I will invoice for the remaining balance(s) ($1000 CAD, $1000 CAD, $1000 CAD)after each of the respective phases are completed as described. These are due not more than 7 days after the phase has been considered complete and the invoice has been sent.
+I will invoice for the remaining balance(s) ($1000 CAD, $1000 CAD, $1000 CAD) after each of the respective phases are completed as described.
 
-Interest accrued if payment is more than 14 days late is 5% of the outstanding amount to be added every 7 days, starting from the 15th day after the invoice has been sent.
+I issue invoices electronically. My payment terms are 7 days after the invoice is received by E-Transfer. All proposals are quoted in CAD and payments will be made at the equivalent conversion rate at the date the transfer is made.
 
-## Signatures
+You agree to pay all charges associated with international transfers of funds. The appropriate bank account details will be provided either in the electronic invoice or in previous correspondence.
 
+I reserve the right to charge interest on all overdue debts at the rate of 5 per month or part of a month.
 
-Client (John Smith for Placeholder Inc.): 		_____________________
-
-
-Developer (Gabriel Dunn for Gabe Dunn Development): 	_____________________
+## But Where's All the Horrible Small Print?
 
 
-Witness (_____________________): 			_____________________
+Just like a parking ticket, neither of us can transfer this contract to anyone else without the other's permission.
+
+We both agree that we'll adhere to all relevant laws and regulations in relation to our activities under this contract and not to cause the other to breach any relevant laws or regulations.
+
+If under any circumstance either party is required to obtain legal counsel or services in order to enforce any part of this contract, the offending party will be required to reimburse all expenses made in effort to uphold these terms, including, but not limited to court fees, lawyer fees, and travel expenses related to this effort.
+
+This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
+
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of the Canadian Courts system.
+
+Oh and don't forget those men with big dogs.
+
+## The Dotted Line
 
 
-Everyone should sign above and keep a copy for their own records.
+Signed by John Smith on behalf of the client (Placeholder Inc.): 		_____________________
+
+
+Signed by Gabriel Dunn on behalf of the developer (Gabe Dunn Development): 	_____________________
+
+
+Date: 										_____________________
+
+
+Everyone should sign above and keep at least one copy for their own records.
