@@ -9,7 +9,8 @@ export const me = {
   feedbackDays: 3,
   paymentDueDate: 7,
   paymentMethod: 'E-Transfer',
-  interest: 5
+  interest: 5,
+  jusisdiction: 'the Canadian Courts system, specifically the courts of Alberta'
 }
 
 export const client = {
