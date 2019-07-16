@@ -123,14 +123,10 @@ You expressly acknowledge that although you are free to engage others to perform
 
 Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract amd shall not affect the validity and enforceability of any remaining provisions.
 
-Phew.
-
 ## Intellectual Property Rights
 
 
 Just to be clear, "Intellectual property rights" means all patents, rights to inventions, copyright, (including rights in software), and related rights, trademarks, service marks, get up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information, (including know-how), and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of such, and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
-
-Blimey.
 
 First, you guarantee that all elements of text, images, other artwork that you provide are either owned by your good selves, or that you've permission to use them. When you provide text, images, or other artwork to us, you agree to protect me from any claim by a third party that I'm using their intellectual property.
 
@@ -230,9 +226,7 @@ If under any circumstance either party is required to obtain legal counsel or se
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of the Canadian Courts system, specifically the courts of Alberta.
-
-Oh and don't forget those men with big dogs.
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of the Canadian Courts system, specifically the courts of Alberta
 
 ## The Dotted Line
 

@@ -146,7 +146,6 @@ const legalParagraphs = [
   'Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that ' +
   'provision shall be deemed severable from this contract amd shall not affect the validity and enforceability of ' +
   'any remaining provisions.',
-  'Phew.'
 ]
 
 // Copyright variables.
@@ -158,7 +157,6 @@ const copyrightParagraphs = [
   'unregistered and including all applications (or rights to apply) for, and renewals or extensions of such, and all ' +
   'similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any ' +
   'part of the world.',
-  'Blimey.',
   'First, you guarantee that all elements of text, images, other artwork that you provide are either owned by your ' +
   'good selves, or that you\'ve permission to use them. When you provide text, images, or other artwork to us, you ' +
   'agree to protect me from any claim by a third party that I\'m using their intellectual property.',
@@ -243,8 +241,7 @@ const smallPrintParagraphs = [
   'This contract stays in place and need not be renewed. If for some reason one part of this contract becomes ' +
   'invalid or unenforceable, the remaining parts of it remain in place.',
   'Although the language is simple, the intentions are serious and this contract is a legal document under exclusive ' +
-  `jurisdiction of ${me.jusisdiction}`,
-  'Oh and don\'t forget those men with big dogs.'
+  `jurisdiction of ${me.jusisdiction}`
 ]
 
 // Signature variables.
